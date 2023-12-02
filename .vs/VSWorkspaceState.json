@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\pointer01",
+    "\\pointer02",
+    "\\pointer02\\pointer02"
   ],
+  "SelectedNode": "\\pointer02\\pointer02\\char포인터.c",
   "PreviewInSolutionExplorer": false
 }
